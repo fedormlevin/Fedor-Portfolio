@@ -3,6 +3,7 @@
 - Created Logistic Regression models predicting Positive/Negative labels for Amazon reviews of acrylic markers
 - Engineered features using N-grams and Tfidf
 - Optimized using GridsearchCV to reach the best model
+-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
