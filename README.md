@@ -1,5 +1,3 @@
-# Fedor's Portfolio
-
 # [Sentiment Analysis - Markers - Amazon Reviews](https://github.com/fedormlevin/sentiment-amazon-markers-reviews/blob/main/README.md)
 
 - Created Logistic Regression models predicting Positive/Negative labels for Amazon reviews of acrylic markers
