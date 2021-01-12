@@ -13,6 +13,6 @@
 
 - Created 2 portfolios based on price momentums and value indicators
 - Back-tested on historic prices to determine optimal reallocation strategy
-- Compared performance with benchmark<br>
+- Compared price return performance with benchmark<br>
 
 ![image info](./newplot.png)
