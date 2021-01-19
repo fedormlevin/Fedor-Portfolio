@@ -15,4 +15,4 @@
 - Back-tested on historic prices to determine reallocation strategy
 - Compared price return performance with benchmark<br>
 
-![image info](./newplot.png)
+![image info](./daily_price.png)
