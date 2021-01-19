@@ -12,7 +12,7 @@
 ## [Momentum - Value - Portfolio - S&P500](https://github.com/fedormlevin/momentum-value-portfolio/blob/main/README.md)
 
 - Created 2 portfolios based on price momentums and value indicators
-- Back-tested on historic prices to determine optimal reallocation strategy
+- Back-tested on historic prices to determine reallocation strategy
 - Compared price return performance with benchmark<br>
 
 ![image info](./newplot.png)
