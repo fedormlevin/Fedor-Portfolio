@@ -1,14 +1,5 @@
 # Fedor Levin's Data Science Portfolio
 
-## [Sentiment Analysis - Markers - Amazon Reviews](https://github.com/fedormlevin/sentiment-amazon-markers-reviews/blob/main/README.md)
-
-- Created Logistic Regression models predicting Positive/Negative labels for Amazon reviews of acrylic markers
-- Engineered features using N-grams and Tfidf
-- Optimized using GridsearchCV to reach the best model
-- Achieved Area Under Curve: 0.90<br>
-
-![image info](./truevspredicted.png)
-
 ## [Constant Proportion Portfolio Insurance - Industry Portfolio](https://github.com/fedormlevin/cppi-industry-portfolio/blob/main/README.md)
 
 - Created industry indexes based on S&P500 prises and market capitalization
@@ -17,6 +8,15 @@
 - Achieved significant max drawdown reduction (38% for "Energy Minerals")
 
 ![image info](./riskysafe.png)
+
+## [Sentiment Analysis - Markers - Amazon Reviews](https://github.com/fedormlevin/sentiment-amazon-markers-reviews/blob/main/README.md)
+
+- Created Logistic Regression models predicting Positive/Negative labels for Amazon reviews of acrylic markers
+- Engineered features using N-grams and Tfidf
+- Optimized using GridsearchCV to reach the best model
+- Achieved Area Under Curve: 0.90<br>
+
+![image info](./truevspredicted.png)
 
 ## [Momentum - Value - Portfolio - S&P500](https://github.com/fedormlevin/momentum-value-portfolio/blob/main/README.md)
 
