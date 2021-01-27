@@ -9,6 +9,15 @@
 
 ![image info](./truevspredicted.png)
 
+## [Constant Proportion Portfolio Insurance - Industry Portfolio](https://github.com/fedormlevin/cppi-industry-portfolio/blob/main/README.md)
+
+- Created industry indexes based on S&P500 prises and market capitalization
+- Applied CPPI model using STIP ETF as a "safe" asset
+- Compared price returns of the combined portfolio to the "risky" (equity only) portfolio
+- Achieved significant drawdown reduction (38%)
+
+![image info](./riskysafe.png)
+
 ## [Momentum - Value - Portfolio - S&P500](https://github.com/fedormlevin/momentum-value-portfolio/blob/main/README.md)
 
 - Created 2 portfolios based on price momentums and value indicators
