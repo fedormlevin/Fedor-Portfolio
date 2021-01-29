@@ -5,7 +5,7 @@
 - Created industry indexes based on S&P500 prises and market capitalization
 - Applied CPPI model using STIP ETF as a "safe" asset
 - Compared price returns of the combined portfolio to the "risky" (equity only) portfolio
-- Achieved significant max drawdown reduction (24% for "Energy Minerals")
+- Achieved significant max drawdown reduction (38% for "Energy Minerals")
 
 ![image info](./riskysafe.png)
 
