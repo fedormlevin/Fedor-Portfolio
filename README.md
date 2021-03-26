@@ -1,5 +1,14 @@
 # Fedor Levin's Data Science Portfolio
 
+## [Regime Change Prediction - US Recessions](https://github.com/fedormlevin/regime-change/blob/main/README.md)
+
+- Extracted macroeconomic indicators from FRED
+- Selected features and trained Logistic Regression model
+- Achieved Area Under Curve: 0.94
+- Forecasted 2020 recession one month ahead of the official data<br>
+
+![image info](./regime_change.png)
+
 ## [Constant Proportion Portfolio Insurance - Industry Portfolio](https://github.com/fedormlevin/cppi-industry-portfolio/blob/main/README.md)
 
 - Created industry indexes based on S&P500 prises and market capitalization
