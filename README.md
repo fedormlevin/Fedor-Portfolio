@@ -7,7 +7,7 @@
 - Achieved Area Under Curve: 0.94
 - Forecasted 2020 recession one month ahead of the official data<br>
 
-![image info](./regime_change.png)
+![image info](./regime_ch.png)
 
 ## [Constant Proportion Portfolio Insurance - Industry Portfolio](https://github.com/fedormlevin/cppi-industry-portfolio/blob/main/README.md)
 
