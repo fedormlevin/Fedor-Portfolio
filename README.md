@@ -4,8 +4,7 @@
 
 - Extracted macroeconomic indicators from FRED
 - Selected features and trained Logistic Regression model
-- Achieved Area Under Curve: 0.94
-- Forecasted 2020 recession one month ahead of the official data<br>
+- Achieved Area Under Curve: 0.94<br>
 
 ![image info](./regime_ch.png)
 
