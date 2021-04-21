@@ -6,7 +6,7 @@
 - Selected features and trained Logistic Regression model
 - Achieved Area Under Curve: 0.94<br>
 
-![image info](./regime_ch.png)
+![image info](./regch.png)
 
 ## [Constant Proportion Portfolio Insurance - Industry Portfolio](https://github.com/fedormlevin/cppi-industry-portfolio/blob/main/README.md)
 
